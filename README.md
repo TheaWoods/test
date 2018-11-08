@@ -1,2 +1,3 @@
 # test
-My first GIT repository
+
+This is new text
